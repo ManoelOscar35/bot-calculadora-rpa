@@ -18,15 +18,12 @@ Ideal para treinar automação com RPA em Python.
 
 ## 📦 Instalação
 
-1. Clone este repositório:
+1. Clone este repositório:   git clone git@github.com:ManoelOscar35/bot-calculadora-rpa.git
 
-   ```bash
-   git clone git@github.com:ManoelOscar35/bot-calculadora-rpa.git
+2. Acesse a pasta do projeto:  cd bot-calculadora-rpa
 
-2. Acesse a pasta do projeto: cd bot-calculadora-rpa
+3. Instale a dependência:  pip install pyautogui
 
-3. Instale a dependência: pip install pyautogui
+4. Execute o script com o Python:  python bot_calculadora.py
 
-4. Execute o script com o Python: python bot_calculadora.py
-
-5. Author: Manoel Oscar Freire de Carvalho
+5. Author:  Manoel Oscar Freire de Carvalho
