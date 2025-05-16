@@ -23,14 +23,14 @@ Ideal para treinar automação com RPA em Python.
    ```bash
    git clone git@github.com:ManoelOscar35/bot-calculadora-rpa.git
 
-## Acesse a pasta do projeto: 
+2. Acesse a pasta do projeto: 
   cd bot-calculadora-rpa
 
-## Instale a dependência:
+3. Instale a dependência:
   pip install pyautogui
 
-## Execute o script com o Python:
+4. Execute o script com o Python:
   python bot_calculadora.py
 
-## Author:
+5. Author:
   Manoel Oscar Freire de Carvalho
